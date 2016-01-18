@@ -4,6 +4,8 @@
 
 **check-consumer-lag.rb**
 
+**check-topics.rb**
+
 **metrics-consumer.rb**
 
 ## Files
